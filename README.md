@@ -1,6 +1,6 @@
 Hi, I'm Cauã. I mostly build Telegram bots and small tools to automate things in my day-to-day.
 
-I also contribute to a few open source projects:
+I've also sent some PRs to open source projects I use:
 
 - [Lightpanda](https://github.com/lightpanda-io/browser), a headless browser written in Zig. I implemented several `crypto.subtle` algorithms: RSA-OAEP, RSA-PSS, RSASSA-PKCS1-v1_5, ECDSA, Ed25519, X25519 and AES-KW. ([PRs](https://github.com/lightpanda-io/browser/pulls?q=is%3Apr+author%3Aorezraey+is%3Amerged))
 - [AnyPS5](https://github.com/boykopovar/AnyPS5), which ports PS5 executables to Windows and Linux. I fixed `sceHttpParseResponseHeader` to match what a real PS5 does, and some build tools that broke on non-ASCII paths on Windows. ([PRs](https://github.com/boykopovar/AnyPS5/pulls?q=is%3Apr+author%3Aorezraey+is%3Amerged))
